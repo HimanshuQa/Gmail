@@ -1,0 +1,7 @@
+#surefire
+#Thu Jun 21 22:48:12 IST 2018
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\HIM\\Documents\\NetBeansProjects\\Gmail
+localRepository=C\:\\Users\\HIM\\.m2\\repository
+basedir=C\:\\Users\\HIM\\Documents\\NetBeansProjects\\Gmail
+test=NewTest
